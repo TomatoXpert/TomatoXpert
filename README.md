@@ -2,7 +2,7 @@
 - 👀 I’m interested in making bots
 - 🌱 I’m currently learning to make a discord bot
 - 💞️ I’m looking to collaborate on Christmas
-- 📫 How to reach me: Discord (thomastsu0)
+- 📫 How to reach me: Discord (tomatoxpert)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: (None)
 
