@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TomatoXpert
 - 👀 I’m interested in making bots
-- 🌱 I’m currently learning to make a discord bot
+- 🌱 I’m currently learning to make a web browser called Nexus
 - 💞️ I’m looking to collaborate on Christmas
-- 📫 How to reach me: Discord (tomatoxpert)
+- 📫 How to reach me: Discord (tomatoxpert.)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: (None)
 
